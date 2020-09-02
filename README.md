@@ -11,9 +11,10 @@ Mediante la creación de una regresión lineal, este proyecto permite predecir l
 
 ## Para más información del proyecto
 
+
 ## Contribuidores del proyecto
-Luis Daniel Vazquez (luis_060198@hotmail.com)
-Johan André Caballero 
-Oscar Peña
-Rodrigo Montero Castro
+- Luis Daniel Vazquez (luis_060198@hotmail.com)
+- Johan André Caballero (Johan.morlesin@gmail.com)
+- Oscar Peña (oscarp_98@hotmail.com)
+- Rodrigo Montero Castro (a01177008@itesm.mx)
 
