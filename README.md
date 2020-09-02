@@ -12,8 +12,8 @@ El proyecto esta desarrollado en Python, haciendo uso de las librerias de scikit
 ## Para más información del proyecto
 Para ayuda con respecto a este proyecto puedes acceder a los siguientes recursos para entender cómo funciona Beautiful Soup y el uso de la regresión lineal. Si tienes más dudas, puedes enviar correo a cualquiera de los colaboradores listados en este archivo.
 
-https://realpython.com/beautiful-soup-web-scraper-python/
-https://realpython.com/linear-regression-in-python/
+- https://realpython.com/beautiful-soup-web-scraper-python/
+- https://realpython.com/linear-regression-in-python/
 
 
 ## Contribuidores del proyecto
