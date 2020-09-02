@@ -1,4 +1,4 @@
-# Scrapper and Regresión lineal de los Nuevos casos de covid
+# Scrapper y Regresión lineal de los Nuevos casos de covid
 
 ## ¿Que hace el proyecto?
 Se obtienen los valores de casos registrados de Covid 19, desde Enero 22 hasta 1° Septiembre de la página https://www.worldometers.info/coronavirus/
